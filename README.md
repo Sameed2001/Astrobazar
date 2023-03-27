@@ -14,3 +14,7 @@ For Strapi, Seller side and Clinet side, type "npm run dev" to start the server.
 
 If you have any problems, don't hesitate to reach out to me at sameedahmed.sa.sa@gmail.com
 
+
+
+https://user-images.githubusercontent.com/81914685/227900916-5bf29573-b7de-4824-82b2-0d9256176cbe.png
+
